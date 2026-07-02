@@ -1,0 +1,9 @@
+langchain==0.3.30
+sentence-transformers==5.1.1
+pypdf==6.11.0
+fastapi[standard]==0.128.8
+python-dotenv==1.1.0
+langchain-pinecone==0.2.13
+langchain-openai==0.3.35
+langchain-community==0.3.31
+-e .
