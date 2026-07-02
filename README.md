@@ -1,6 +1,6 @@
-# MediBot
+# Doctor assistant
 
-MediBot is a medical chatbot that answers questions using information from medical documents (PDFs). It uses AI to search through the documents and give short, clear answers.
+Doctor assistant is a medical chatbot that answers questions using information from medical documents (PDFs). It uses AI to search through the documents and give short, clear answers.
 
 ## How it works
 
